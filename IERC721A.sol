@@ -2,6 +2,9 @@
 // ERC721A Contracts v4.2.2
 // Creator: Chiru Labs
 
+// This file has been adapted by The Blinkless to support Passive Viral Minting
+// www.theblinkless.com
+
 pragma solidity ^0.8.4;
 
 /**
