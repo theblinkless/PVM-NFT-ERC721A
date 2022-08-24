@@ -1,6 +1,8 @@
 // SPDX-License-Identifier: MIT
-//creators: The Blinkless
+// creators: The Blinkless
 
+// DISCLAIMER: This file is provided for educational purposes only 
+// and The Blinkless is not liable for its use or misuse.
 
 pragma solidity ^0.8.4;
 
