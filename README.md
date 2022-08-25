@@ -14,6 +14,6 @@ Passive Viral Minting (PVM) is a minting mechanic which, when implemented, mints
 **During the mint, when someone sends an NFT to a non-holder, it is instantly replaced in their wallet by the smart contract. This encourages sharing, organic growth, and includes personal incentives because the new NFT may be more rare than the one they sent.**
 
 # Who is PVM for?
-PVM is for NFT projects who understand the importance of growing your community organically - you can download the code from the link at the top of this page. We created PVM for The Blinkless Genesis collection and have used it to mint out several collections since then such as our Fully Dilated and Oculoids collections. We're happy to share with anyone who wants to use this tool for themselves!
+PVM is for NFT projects who understand the importance of growing your community organically. We created PVM for The Blinkless Genesis collection and have used it to mint out several collections since then such as our Fully Dilated and Oculoids collections. We're happy to share with anyone who wants to use this tool for themselves!
 
 PVM can help an NFT project who is already considering a free mint, make the most of the experience and give their project the chance of being seen and owned by as many holders as possible.
