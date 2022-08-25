@@ -1,3 +1,7 @@
+To learn more about The Blinkless, visit https://www.theblinkless.com
+
+Follow **@theblinkless** on Twitter!
+
 # PVM-NFT-ERC721A
 This repo includes a sample NFT smart contract and an adapted ERC721A for Passive Viral Minting.
 
