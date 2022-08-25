@@ -50,7 +50,7 @@ contract PVMNFT is ERC721A,Ownable {
 
 
     /**
-    * Update the maxSupply - default is 5555, set in ERC721A.sol
+    * Update the maxSupply - default is 5555, set in constructor
     */
     function updateMaxSupply(uint256 newSupply) external onlyOwner{
          maxSupply = newSupply;
