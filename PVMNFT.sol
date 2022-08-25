@@ -13,8 +13,12 @@ import "@openzeppelin/contracts/security/ReentrancyGuard.sol";
 contract PVMNFT is ERC721A,Ownable {
 
     constructor(string memory _metadataPath) ERC721A("My PVM Project", "PVMNFT") {
+        //mint initial token to owner
         _mint(msg.sender, 1);
+        //set path to metadata
         metadataPath = _metadataPath;
+        //set total number of NFTs to be minted with PVM
+        maxSupply = 5555; 
     }
 
     /**
